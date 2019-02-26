@@ -1,5 +1,5 @@
 {
-    "name": "guidocella/laravel-insert-on-duplicate-key",
+    "name": "thiagopromano/laravel-insert-on-duplicate-key",
     "type": "library",
     "description": "Macros for INSERT ON DUPLICATE KEY UPDATE and INSERT IGNORE with Eloquent",
     "keywords": ["laravel", "eloquent", "database", "mysql"],
